@@ -1,0 +1,7 @@
+{
+  "name": "mail-if-signal-out",
+  "description": "一定時間アクセスがなければメールする",
+  "repository": "https://github.com/hihira/mail-if-signal-out",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}

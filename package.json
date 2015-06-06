@@ -1,0 +1,28 @@
+{
+  "name": "mail-if-signal-out",
+  "version": "0.0.1",
+  "description": "一定時間アクセスがなければメールする",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.3",
+    "body-parser": "^1.12.3",
+    "express": "~4.9.x",
+    "sendgrid": "^1.8.0"
+  },
+  "engines": {
+    "node": "0.10.38"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hihira/mail-if-signal-out"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
